@@ -1,21 +1,26 @@
 html {
   color: white;
   background-color: black;
-  top: 30%;
-  left: 30%;
+  margin-left: 20%;
 }
 
 .h3 {
-  font-weight: bold;
-  font-size: larger;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .h6 {
   font-size: large;
 }
 
+div {
+    margin: 10px;
+}
+
 .button_action {
   border-radius: 20px;
   color: white;
   background-color: #66ff99;
+  font-size: 15px;
+  margin: 15px;
 }
