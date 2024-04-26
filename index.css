@@ -1,7 +1,9 @@
-html {
+body {
   font-size: 32;
   color: white;
   background-color: black;
+  top: 30%;
+  left: 30%;
 }
 
 .button_action {
